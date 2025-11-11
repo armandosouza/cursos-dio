@@ -1,6 +1,5 @@
-# Full Stack Mobile MeuTudo
-Formação completa do Curso Meutudo de Mobile Fullstack da DIO 
+# Cursos DIO
+Todos os projetos realizados dentro das formações e cursos da DIO
 
-## Lista de projetos feitos no curso:
-[Simulador de corrida Mario Kart]('./simulador_mariokart/readme.md')<br/>
-[Carrinho de compras Shopee]('./carrinho-shopee/readme.md')
+## Lista de projetos por cursos:
+- [Meutudo Mobile Developer]('./meutudo/readme.md')<br/>
